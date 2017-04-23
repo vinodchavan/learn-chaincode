@@ -21,6 +21,7 @@ import (
 	"fmt"
 
 	"github.com/hyperledger/fabric/core/chaincode/shim"
+	"gopkg.in/ibm-blockchain/learn-chaincode.v2/finished"
 )
 
 // SimpleChaincode example simple Chaincode implementation
